@@ -1,0 +1,1592 @@
+============================================================
+OUTPUT 1: ADMITTED STUDENTS PER PROGRAM
+============================================================
+
+Program: Material Science & Engineering Regular
+  - MANOGYA DHITAL (Rank: 342)
+  - GAJENDRA KUMAR CHAUHAN (Rank: 373)
+  - AASHISH SIGDEL (Rank: 444)
+  - MOHAMMAD SHABBIR ALAM (Rank: 592)
+  - SHREEYA ARYAL (Rank: 876)
+
+Program: Material Science & Engineering Full Fee
+  - PRADIP LUITEL (Rank: 386)
+  - PRATAP BUDHATHOKI (Rank: 441)
+  - KIRAN POUDEL (Rank: 854)
+  - DAKSHA THAKUR (Rank: 884)
+  - ABHISHEK CHAUDHARY KALWAR (Rank: 899)
+  - PRADEEP LAMICHHANE (Rank: 1013)
+
+Program: Urban Planning Regular
+  - ASHWINI BHATT (Rank: 58)
+  - ANISH SHRESTHA (Rank: 102)
+  - PRASHIM YADAV (Rank: 368)
+  - PRASHIM YADAV (Rank: 368)
+  - BISHAL NEUPANE (Rank: 666)
+
+Program: Urban Planning Full Fee
+  - SMRITI ACHARYA (Rank: 69)
+  - PRASHANNA GHIMIRE (Rank: 218)
+  - NEWSON GHIMIRE (Rank: 247)
+  - RUSTAM PRADHANANGA (Rank: 297)
+  - AVIYAN GURAGAIN (Rank: 299)
+  - SANDEEP MALLA THAKURI (Rank: 412)
+
+Program: Energy Efficient Buildings  Regular
+  - SHIKHA KHANAL (Rank: 68)
+  - YUBRAJ BOHARA (Rank: 123)
+  - DIBYANSHU PRADHAN (Rank: 142)
+  - SUDARSHAN SAPKOTA (Rank: 157)
+  - ARBIND BAHADUR MAGAR (Rank: 168)
+
+Program: Energy Efficient Buildings  Full Fee
+  - KRIPA SHRESTHA (Rank: 179)
+  - RISHAV BAJRACHARYA (Rank: 317)
+  - DIPAK RAJ SHRESTHA (Rank: 513)
+  - MANDEEP GURUNG (Rank: 568)
+  - MAHESH MAHARJAN (Rank: 710)
+  - RAM SUBEDI (Rank: 744)
+
+Program: Masters in Architecture Regular
+  - ALINA SHRESTHA (Rank: 101)
+  - HITESH THAPA (Rank: 771)
+  - AMIT POUDYEL UPADHYAY (Rank: 1071)
+
+Program: Masters in Architecture Full Fee
+  - DIYA SENTURY (Rank: 167)
+  - ANUSH MAHARJAN (Rank: 468)
+  - NISCHAYA MANANDHAR (Rank: 940)
+  - CHETAN SARU (Rank: 1154)
+  - KRITIM KATWAL (Rank: 1341)
+
+Program: Structural Engineering Regular
+  - ACHAL SHAKYA (Rank: 5)
+  - BIPUL KHADKA (Rank: 11)
+  - TEKRAJ KHADKA (Rank: 14)
+  - SURAJ ADHIKARI (Rank: 21)
+  - SADIKSHYA THAPA (Rank: 106)
+
+Program: Structural Engineering Full Fee
+  - PRABIN ARYAL (Rank: 22)
+  - KESHAB RAJ BHATTA (Rank: 47)
+  - MANISH SHARMA (Rank: 50)
+  - BHASKAR JOSHI (Rank: 53)
+  - BIPUL DAHAL (Rank: 60)
+  - SALMA THAPA (Rank: 202)
+
+Program: Water Resources Engineering Regular
+  - PRATIK PANDEY (Rank: 4)
+  - BIKASH SUBEDI (Rank: 17)
+  - ASHISH SHARMA (Rank: 20)
+  - ASHISH UPADHAYA SHARMA (Rank: 29)
+  - OSHINDEEP SUBEDI (Rank: 93)
+
+Program: Water Resources Engineering Full Fee
+  - TANUJ BHATT (Rank: 91)
+  - SAROJ ADHIKARI (Rank: 107)
+  - ROSHAN KHATRI (Rank: 113)
+  - AAYUSH KAFLE (Rank: 115)
+  - UPENDRA SHRESTHA (Rank: 134)
+  - AAKRITI CHALISE (Rank: 319)
+
+Program: Environmental Engineering Regular
+  - ARJUN ACHARYA (Rank: 43)
+  - AVISHEK POKHREL (Rank: 49)
+  - DHIRENDRA KHANAL (Rank: 56)
+  - BINOD THAPA (Rank: 63)
+  - UPASANA SUBEDI (Rank: 351)
+
+Program: Environmental Engineering Full Fee
+  - PRANJAL MANI ACHARYA (Rank: 110)
+  - MANOJ RAJ JOSHI (Rank: 186)
+  - NISCHAL GHARTI (Rank: 205)
+  - ISHWOR PANTA (Rank: 207)
+  - SUSHANT POKHREL (Rank: 222)
+  - ANUJA BANJARA (Rank: 374)
+
+Program: Geotechnical Engineering Regular
+  - JAYANT RAJ PANT (Rank: 2)
+  - RAMESHWOR ACHARYA (Rank: 9)
+  - ASHIM PAUDEL (Rank: 12)
+  - SURAJ SUBEDI (Rank: 16)
+  - ANJU THAPALIYA (Rank: 36)
+
+Program: Geotechnical Engineering Full Fee
+  - RASKIN DHAKAL (Rank: 40)
+  - BISHAL RAJ REGMI (Rank: 44)
+  - SHIVAM KUMAR SAH (Rank: 57)
+  - UTSARGA BHANDARI (Rank: 81)
+  - NABIN KOIRALA (Rank: 83)
+  - SHRADHA ACHARYA (Rank: 159)
+
+Program: Transportation Engineering Regular
+  - UJWAL RAJ GHIMIRE (Rank: 3)
+  - LAXMAN BARAL (Rank: 7)
+  - SANGAM PAUDEL (Rank: 26)
+  - PRATIK SYANGTAN (Rank: 32)
+  - SAPANA POKHREL (Rank: 88)
+
+Program: Transportation Engineering Full Fee
+  - BISHAL BHANDARI (Rank: 38)
+  - DIPAK KUMAR DAS (Rank: 103)
+  - HOM RAJ KHADKA (Rank: 124)
+  - SAMIR NIRAULA (Rank: 129)
+  - RONISH SUBEDI (Rank: 132)
+  - PRERANA THAPA (Rank: 234)
+
+Program: Disaster Risk Engineering and Management Regular
+  - ASHISH BARAL (Rank: 35)
+  - DANISH YASIN (Rank: 54)
+  - SHAMBHU KAFLE (Rank: 94)
+  - PRATIK SEDHAIN (Rank: 172)
+  - BEBINA PHUYAL (Rank: 197)
+
+Program: Disaster Risk Engineering and Management Full Fee
+  - MANISH SUNUWAR (Rank: 201)
+  - SABIN K.C. (Rank: 215)
+  - ISHWOR BAHADUR PANDEY (Rank: 224)
+  - SIDDHARTHA SHRESTHA (Rank: 232)
+  - TANKA PRASAD TIWARI (Rank: 282)
+  - SNEHA CHAND (Rank: 531)
+
+Program: Construction Engineering and Managment Regular
+  - ARCHIT ARYAL (Rank: 1)
+  - SUVESH DHAKAL (Rank: 10)
+  - BHAGYAWAN JOSHI (Rank: 15)
+  - RUPAK BAJGAIN (Rank: 23)
+  - AAYUSHMA BARAL (Rank: 28)
+
+Program: Construction Engineering and Managment Full Fee
+  - ASIAN CHUDALI (Rank: 37)
+  - MAHESH RAJ REGMI (Rank: 46)
+  - AMAN KUMAR CHAUDHARY (Rank: 55)
+  - RAJESH SHRESTHA (Rank: 84)
+  - SAMBAT KHAREL (Rank: 92)
+  - SANGITA BHUSAL (Rank: 126)
+
+Program: Earthquake Engineering Regular
+  - SARAD BHANDARI (Rank: 6)
+  - BIDUR PANTHEE (Rank: 19)
+  - RAKESH MISHRA (Rank: 25)
+  - SUSHIL KAFLE (Rank: 30)
+  - LAXMI ADHIKARI (Rank: 261)
+
+Program: Earthquake Engineering Full Fee
+  - BIPIN BHANDARI (Rank: 71)
+  - RIYAJ MAHARJAN (Rank: 73)
+  - MANAS RAJ OJHA (Rank: 79)
+  - PRASHAM SHAH (Rank: 118)
+  - BIJAY K.C. (Rank: 154)
+  - SONA MAHARJAN (Rank: 204)
+
+Program: Infrastructure Engineering and Management Regular
+  - SABIN PAUDEL (Rank: 82)
+  - ASHIM POUDEL (Rank: 112)
+  - SAGAR BASNET (Rank: 149)
+  - AYUSH BABU PAUDEL (Rank: 155)
+  - SRIJANA CHAUDHARY (Rank: 377)
+
+Program: Infrastructure Engineering and Management Full Fee
+  - SIDDHARTH MOHAN THAPA (Rank: 291)
+  - SUDIP DHAKAL (Rank: 452)
+  - NISPAKSHA ROKAYA (Rank: 588)
+  - ACHYUT RAJ GHIMIRE (Rank: 686)
+  - SAFAL TIMILSENA (Rank: 698)
+  - DREESHTI KAFLE (Rank: 907)
+
+Program: Hydropower Engineering Regular
+  - BIBAS LAMICHHANE (Rank: 8)
+  - MERIT BHANDARI (Rank: 27)
+  - RABIN RAJ PANDEY (Rank: 64)
+  - SUSAN TIMSINA (Rank: 96)
+  - SAHANSHILA MAHARJAN (Rank: 260)
+
+Program: Hydropower Engineering Full Fee
+  - ABHISHEK POUDEL (Rank: 137)
+  - MARCOS ADHIKARI (Rank: 162)
+  - PRANAV ADHIKARI (Rank: 195)
+  - PRABIN SUNUWAR (Rank: 206)
+  - NABIN KHADKA (Rank: 295)
+  - BARSHA ACHARYA (Rank: 362)
+
+Program: Land and Water Engineering Regular
+  - PREETAM BHATTA (Rank: 522)
+  - NABIN BHATTARAI (Rank: 587)
+  - DIWAKAR BHATTA (Rank: 636)
+  - SAHIL BHUJEL (Rank: 645)
+
+Program: Land and Water Engineering Full Fee
+  - AASHRIT NIRAULA (Rank: 877)
+  - AMOD KUMAR YADAV (Rank: 1084)
+  - DIWAKAR SINGH (Rank: 1107)
+  - DINA SHRESTHA (Rank: 1144)
+  - SANKALPA KHATIWADA (Rank: 1423)
+
+Program: Rock and Tunnel Engineering Regular
+  - SORUP SINGH (Rank: 173)
+  - ANUSHA SHRESTHA (Rank: 225)
+  - SUMAN BHUJEL (Rank: 230)
+  - SUBASH SHRESTHA (Rank: 256)
+  - CHANDRA PRAKASH G.C. (Rank: 294)
+
+Program: Rock and Tunnel Engineering Full Fee
+  - RAVI BHATTA (Rank: 228)
+  - PUSHPIN BARAL (Rank: 417)
+  - ASHISH DHAKAL (Rank: 447)
+  - AASHISH GAUTAM (Rank: 504)
+  - AMIR RAI (Rank: 567)
+  - SMRITI PANDEYA (Rank: 648)
+
+Program: Sanitation Engineering/Science Regular
+  - SWATANTRA HUMAGAIN (Rank: 652)
+  - GHANASHYAM GHIMIRE (Rank: 955)
+  - AMODH KUMAR SINHA (Rank: 1190)
+  - DEEPINA KARMACHARYA (Rank: 1388)
+
+Program: Sanitation Engineering/Science Full Fee
+  - RUPESH KUMAR CHAUDHARY (Rank: 1456)
+
+Program: Power System Engineering Regular
+  - ABIN NAKARMI (Rank: 74)
+  - LENISH SHRESTHA (Rank: 104)
+  - MAHESH CHAUDHARY (Rank: 164)
+  - SANJEET CHAUDHARY (Rank: 257)
+  - SHIKSHA BHUSAL (Rank: 357)
+
+Program: Power System Engineering Full Fee
+  - SABITRI DHAMALA (Rank: 415)
+  - VIBEK GHIMIRE (Rank: 419)
+  - SUNDAR NEUPANE (Rank: 483)
+  - SAMIR JOSHI (Rank: 526)
+  - BIJAYA SHRESTHA (Rank: 540)
+  - KISHOR SAPKOTA (Rank: 542)
+
+Program: Distributed Generation Engineering Regular
+  - BIBEK RANJAN MALLIK (Rank: 668)
+  - SHISHIR ARYAL (Rank: 678)
+  - CHUTRA THAPA (Rank: 739)
+  - BIBEK KHANAL (Rank: 786)
+  - NIKITA ACHARYA (Rank: 966)
+
+Program: Distributed Generation Engineering Full Fee
+  - SAMIR LAMICHHANE (Rank: 851)
+  - PURUSOTTAM ADHIKARI (Rank: 901)
+  - DINESH SHARMA (Rank: 909)
+  - RAJARAM GHEMOSU (Rank: 981)
+  - MANOJ JOSHI (Rank: 1047)
+  - SADIKSHYA KHANAL (Rank: 1300)
+
+Program: Power Electronics and Drives Engineering Regular
+  - TANKA NATH ADHIKARI (Rank: 97)
+  - PRAKASH KUMAR KARNA (Rank: 288)
+  - YOGESH SHAKYA (Rank: 418)
+  - RAKESH SAH (Rank: 573)
+  - RAISHA KARMACHARYA (Rank: 640)
+
+Program: Power Electronics and Drives Engineering Full Fee
+  - GEHENDRA SUBEDI (Rank: 580)
+  - RANJAN RAJ PANDEY (Rank: 623)
+  - RUPESH DHITAL (Rank: 630)
+  - ROSHAN RAJ ADHIKARI (Rank: 639)
+  - SUBARNA CHAUDHARY (Rank: 716)
+  - JYOTI CHAUDHARY (Rank: 791)
+
+Program: Information & Communication Engineering Regular
+  - SAMRAT KAFLE (Rank: 120)
+  - AMIT KUMAR MAHATO (Rank: 146)
+  - RHYTHM PANTHA (Rank: 148)
+  - PRAHLAD ACHARYA (Rank: 160)
+  - ANISHA POKHREL (Rank: 264)
+
+Program: Information & Communication Engineering Full Fee
+  - ALSON REGMI (Rank: 184)
+  - SATYAM GHIMIRE (Rank: 296)
+  - SAGAR BIST (Rank: 306)
+  - SAJAG MAJHI (Rank: 332)
+  - ANIL KUMAR YADAV (Rank: 341)
+  - SABHYATA KHANAL (Rank: 431)
+
+Program: Computer System and Knowledge Engineering Regular
+  - SOVIT SINGH GUPTA (Rank: 66)
+  - SAJAN OLI (Rank: 85)
+  - NISCHAL BHURTEL (Rank: 89)
+  - SUBASH GAUTAM (Rank: 114)
+  - GRISHMA RIJAL (Rank: 180)
+
+Program: Computer System and Knowledge Engineering Full Fee
+  - BISHAL KATUWAL (Rank: 182)
+  - KAPIL KUNWAR (Rank: 243)
+  - BINIT RUPAKHETI (Rank: 248)
+  - SANTOSH PANDEY (Rank: 305)
+  - SACHIN BHUSAL (Rank: 324)
+  - SUMINA LAMSAL (Rank: 407)
+
+Program: Communications and Knowledge Engineering Regular
+  - YAM PRASAD SUBEDI (Rank: 121)
+  - ABISHEK SHRESTHA (Rank: 219)
+  - ASHISH SUBEDI (Rank: 518)
+  - ANUP NEUPANE (Rank: 609)
+  - ANU SAPKOTA (Rank: 810)
+
+Program: Communications and Knowledge Engineering Full Fee
+  - UDAYA ADHIKARI (Rank: 628)
+  - DAVID CHAUDHARY (Rank: 849)
+  - EBRAJ GURUNG (Rank: 1185)
+  - NABIN TIMSINA (Rank: 1330)
+  - PRATIKSHYA ARYAL (Rank: 1365)
+  - BIKRAM PAUDEL (Rank: 1449)
+
+Program: Computer Engineering Specialization in Data Science and Analytics Regular
+  - KRISCHAL KHANAL (Rank: 13)
+  - SABIN ACHARYA (Rank: 18)
+  - KISAN BISTA (Rank: 33)
+  - KRINJJWAL DHAKAL (Rank: 34)
+  - RASHMI KHADKA (Rank: 216)
+
+Program: Computer Engineering Specialization in Data Science and Analytics Full Fee
+  - PRASIT POUDEL (Rank: 67)
+  - PRABIN BOHARA (Rank: 100)
+  - ABHISHEK THAPA (Rank: 116)
+  - SANTOSH TIWARI (Rank: 138)
+  - MEGHRAJ GYAWALI (Rank: 139)
+  - SABINA THAPA (Rank: 343)
+
+Program: Informatics and Intelligent Systems Engineering Regular
+  - DIPAK RAJ GIRI (Rank: 171)
+  - UJJWAL POKHAREL (Rank: 181)
+  - PRAKASH UPADHAYAY (Rank: 221)
+  - SAIMAN RIJAL (Rank: 238)
+  - AARONA K.C. (Rank: 445)
+
+Program: Informatics and Intelligent Systems Engineering Full Fee
+  - AASMAN BASHYAL (Rank: 266)
+  - PRASHANT GHIMIRE (Rank: 320)
+  - SAURAV UPADHYAYA (Rank: 406)
+  - SRIJAN POKHREL (Rank: 440)
+  - PAWAN SAPKOTA SHARMA (Rank: 450)
+  - DIPA JOSHI (Rank: 549)
+
+Program: Information System Engineering Regular
+  - PRAKASH SHAH (Rank: 125)
+  - PRAJWAL BASNET (Rank: 396)
+  - DEV NARAYAN TAJPURIYA (Rank: 411)
+  - RAJEEV YADAV (Rank: 945)
+
+Program: Information System Engineering Full Fee
+  - NITISH SHARMA (Rank: 1049)
+  - RAMESH KUMAR MEHTA (Rank: 1136)
+  - DINESH WASTI (Rank: 1453)
+
+Program: Computer Engineering Specialization in Networks and Cyber Security Regular
+  - RAJAN NEUPANE (Rank: 39)
+  - ROSHAN RIMAL (Rank: 41)
+  - SUSHOVAN SHAKYA (Rank: 42)
+  - RAJESH KHANAL (Rank: 59)
+  - SABIGYA POKHAREL (Rank: 95)
+
+Program: Computer Engineering Specialization in Networks and Cyber Security Full Fee
+  - ANISH JOSHI (Rank: 158)
+  - NITISH DEO (Rank: 246)
+  - LOKENDRA SINGH KHATI (Rank: 250)
+  - NIRAV SAPKOTA (Rank: 254)
+  - PRAJWAL ACHARYA (Rank: 258)
+  - POOJA SAH (Rank: 268)
+
+Program: Geospatial Engineering Regular
+  - INDRA PAUDEL (Rank: 220)
+  - YOJANA RANABHAT (Rank: 279)
+  - TILAK CHAND YADAV (Rank: 500)
+  - MANISH KUMAR POKHREL (Rank: 502)
+  - BHARAT KHADKA (Rank: 509)
+
+Program: Geospatial Engineering Full Fee
+  - ASHMITA RIJAL (Rank: 432)
+  - NIRAJ BHUSAL (Rank: 608)
+  - ABISHEK KUMAR SHAH (Rank: 697)
+  - MANISH TIWARI (Rank: 705)
+  - ARUN KUMAR BHOMI (Rank: 783)
+  - MANISH GHIMIRE (Rank: 790)
+
+Program: Renewable Energy Engineering Regular
+  - UJWAL MAKHASHYA (Rank: 98)
+  - AAYUSH PUDASAINI (Rank: 226)
+  - NIRDESH KHANAL (Rank: 290)
+  - PRAJJWAL PAUDEL (Rank: 347)
+  - KRITIKA KHADKA (Rank: 425)
+
+Program: Renewable Energy Engineering Full Fee
+  - UDAY RAJ KAFLE (Rank: 400)
+  - BHUPENDRA NATH (Rank: 616)
+  - NIROJ RANA (Rank: 674)
+  - NIRAJ THAPA (Rank: 715)
+  - RAMAN BANJARA (Rank: 812)
+  - RASMITA GAUTAM (Rank: 1305)
+
+Program: Energy Systems Planning and Management Regular
+  - AAVASH SHARMA (Rank: 481)
+  - NIKESH BHURTEL (Rank: 484)
+  - JANAK RISAL (Rank: 506)
+  - SURAJ SILWAL (Rank: 523)
+  - SARMILA GYAWALI (Rank: 633)
+
+Program: Energy Systems Planning and Management Full Fee
+  - PRAYASH DAHAL (Rank: 837)
+  - KSHITIZ KOIRALA (Rank: 915)
+  - SANDESH PAUDEL CHHETRI (Rank: 982)
+  - ABHISEK BHATTA (Rank: 1021)
+  - RAJESWOR KARKI (Rank: 1183)
+  - KRITIKA KHANAL (Rank: 1295)
+
+Program: Mechanical Engineering Regular
+  - BIPIN K.C. (Rank: 51)
+  - SIDDHANTA KISHOR SUBEDI (Rank: 61)
+  - NIROJ DAHAL (Rank: 128)
+  - NISCHAL SHRESTHA (Rank: 130)
+  - SADIKSHYA RIJAL (Rank: 259)
+
+Program: Mechanical Engineering Full Fee
+  - BIJAY ACHARYA (Rank: 143)
+  - MANJIL SITOULA (Rank: 253)
+  - DILIP PARAJULI (Rank: 269)
+  - SAPHAL GANDHARI (Rank: 318)
+  - SUYASH ACHARYA (Rank: 413)
+  - SARITA KASICHHWA (Rank: 925)
+
+Program: Mechanical Engineering (Design and Manufacturing) Regular
+  - ASHOK POUDEL (Rank: 152)
+  - SHISHIR DAHAL (Rank: 199)
+  - DINANATH SHARMA (Rank: 300)
+  - ANIL MAHARJAN (Rank: 389)
+  - AARADHNA SHREE (Rank: 776)
+
+Program: Mechanical Engineering (Design and Manufacturing) Full Fee
+  - SUYOG BASNET (Rank: 525)
+  - SANGAM BHUSAL (Rank: 641)
+  - BASANT BELBASE (Rank: 692)
+  - YUDEEP POUDEL (Rank: 696)
+  - SUBIN TANDUKAR (Rank: 718)
+
+Program: Climate Change and Development Regular
+  - SAURAV KARKI (Rank: 277)
+  - RITIKA PANDEY (Rank: 559)
+  - PRABHAT PAHARI (Rank: 605)
+  - SUJAN SUBEDI (Rank: 658)
+  - ARUN KARKI (Rank: 665)
+
+Program: Climate Change and Development Full Fee
+  - PRASHANT POKHREL (Rank: 575)
+  - BEEBIKA SHARMA (Rank: 620)
+  - ANISH NEUPANE (Rank: 787)
+  - ANIL DHAKAL (Rank: 902)
+  - LAXMI PRASAD SHARMA (Rank: 971)
+  - DIPESH SHRESTHA (Rank: 1043)
+
+Program: nan
+  (No students admitted)
+
+============================================================
+OUTPUT 2: ASSIGNED PROGRAM PER STUDENT
+============================================================
+                            Name  Rank                                                            Assigned Program
+                    ARCHIT ARYAL     1                              Construction Engineering and Managment Regular
+                 JAYANT RAJ PANT     2                                            Geotechnical Engineering Regular
+               UJWAL RAJ GHIMIRE     3                                          Transportation Engineering Regular
+                   PRATIK PANDEY     4                                         Water Resources Engineering Regular
+                    ACHAL SHAKYA     5                                              Structural Engineering Regular
+                  SARAD BHANDARI     6                                              Earthquake Engineering Regular
+                    LAXMAN BARAL     7                                          Transportation Engineering Regular
+                BIBAS LAMICHHANE     8                                              Hydropower Engineering Regular
+               RAMESHWOR ACHARYA     9                                            Geotechnical Engineering Regular
+                   SUVESH DHAKAL    10                              Construction Engineering and Managment Regular
+                    BIPUL KHADKA    11                                              Structural Engineering Regular
+                    ASHIM PAUDEL    12                                            Geotechnical Engineering Regular
+                 KRISCHAL KHANAL    13   Computer Engineering Specialization in Data Science and Analytics Regular
+                   TEKRAJ KHADKA    14                                              Structural Engineering Regular
+                 BHAGYAWAN JOSHI    15                              Construction Engineering and Managment Regular
+                    SURAJ SUBEDI    16                                            Geotechnical Engineering Regular
+                   BIKASH SUBEDI    17                                         Water Resources Engineering Regular
+                   SABIN ACHARYA    18   Computer Engineering Specialization in Data Science and Analytics Regular
+                   BIDUR PANTHEE    19                                              Earthquake Engineering Regular
+                   ASHISH SHARMA    20                                         Water Resources Engineering Regular
+                  SURAJ ADHIKARI    21                                              Structural Engineering Regular
+                    PRABIN ARYAL    22                                             Structural Engineering Full Fee
+                   RUPAK BAJGAIN    23                              Construction Engineering and Managment Regular
+                   RAKESH MISHRA    25                                              Earthquake Engineering Regular
+                   SANGAM PAUDEL    26                                          Transportation Engineering Regular
+                  MERIT BHANDARI    27                                              Hydropower Engineering Regular
+                  AAYUSHMA BARAL    28                              Construction Engineering and Managment Regular
+          ASHISH UPADHAYA SHARMA    29                                         Water Resources Engineering Regular
+                    SUSHIL KAFLE    30                                              Earthquake Engineering Regular
+                 PRATIK SYANGTAN    32                                          Transportation Engineering Regular
+                     KISAN BISTA    33   Computer Engineering Specialization in Data Science and Analytics Regular
+                KRINJJWAL DHAKAL    34   Computer Engineering Specialization in Data Science and Analytics Regular
+                    ASHISH BARAL    35                            Disaster Risk Engineering and Management Regular
+                  ANJU THAPALIYA    36                                            Geotechnical Engineering Regular
+                   ASIAN CHUDALI    37                             Construction Engineering and Managment Full Fee
+                 BISHAL BHANDARI    38                                         Transportation Engineering Full Fee
+                   RAJAN NEUPANE    39  Computer Engineering Specialization in Networks and Cyber Security Regular
+                   RASKIN DHAKAL    40                                           Geotechnical Engineering Full Fee
+                    ROSHAN RIMAL    41  Computer Engineering Specialization in Networks and Cyber Security Regular
+                 SUSHOVAN SHAKYA    42  Computer Engineering Specialization in Networks and Cyber Security Regular
+                   ARJUN ACHARYA    43                                           Environmental Engineering Regular
+                BISHAL RAJ REGMI    44                                           Geotechnical Engineering Full Fee
+                   PRINCE KHATRI    45                                                                        None
+                MAHESH RAJ REGMI    46                             Construction Engineering and Managment Full Fee
+               KESHAB RAJ BHATTA    47                                             Structural Engineering Full Fee
+                 AVISHEK POKHREL    49                                           Environmental Engineering Regular
+                   MANISH SHARMA    50                                             Structural Engineering Full Fee
+                      BIPIN K.C.    51                                              Mechanical Engineering Regular
+                    SUNIL SHARMA    52                                                                        None
+                   BHASKAR JOSHI    53                                             Structural Engineering Full Fee
+                    DANISH YASIN    54                            Disaster Risk Engineering and Management Regular
+            AMAN KUMAR CHAUDHARY    55                             Construction Engineering and Managment Full Fee
+                DHIRENDRA KHANAL    56                                           Environmental Engineering Regular
+                SHIVAM KUMAR SAH    57                                           Geotechnical Engineering Full Fee
+                   ASHWINI BHATT    58                                                      Urban Planning Regular
+                   RAJESH KHANAL    59  Computer Engineering Specialization in Networks and Cyber Security Regular
+                     BIPUL DAHAL    60                                             Structural Engineering Full Fee
+         SIDDHANTA KISHOR SUBEDI    61                                              Mechanical Engineering Regular
+                SPANDAN BARTAULA    62                                                                        None
+                     BINOD THAPA    63                                           Environmental Engineering Regular
+                RABIN RAJ PANDEY    64                                              Hydropower Engineering Regular
+                  GARIMA NEUPANE    65                                                                        None
+               SOVIT SINGH GUPTA    66                           Computer System and Knowledge Engineering Regular
+                   PRASIT POUDEL    67  Computer Engineering Specialization in Data Science and Analytics Full Fee
+                   SHIKHA KHANAL    68                                         Energy Efficient Buildings  Regular
+                  SMRITI ACHARYA    69                                                     Urban Planning Full Fee
+                  SMRITI ACHARYA    69                                                                        None
+                  BIPIN BHANDARI    71                                             Earthquake Engineering Full Fee
+                  RIYAJ MAHARJAN    73                                             Earthquake Engineering Full Fee
+                    ABIN NAKARMI    74                                            Power System Engineering Regular
+                   RIDAM PAUDYAL    78                                                                        None
+                  MANAS RAJ OJHA    79                                             Earthquake Engineering Full Fee
+                  MANAS RAJ OJHA    79                                                                        None
+                  BALKRISHNA JHA    80                                                                        None
+                UTSARGA BHANDARI    81                                           Geotechnical Engineering Full Fee
+                UTSARGA BHANDARI    81                                                                        None
+                    SABIN PAUDEL    82                           Infrastructure Engineering and Management Regular
+                   NABIN KOIRALA    83                                           Geotechnical Engineering Full Fee
+                 RAJESH SHRESTHA    84                             Construction Engineering and Managment Full Fee
+                       SAJAN OLI    85                           Computer System and Knowledge Engineering Regular
+                  SUBHASH SUBEDI    86                                                                        None
+                  SAPANA POKHREL    88                                          Transportation Engineering Regular
+                 NISCHAL BHURTEL    89                           Computer System and Knowledge Engineering Regular
+                     MANAS THAPA    90                                                                        None
+                     MANAS THAPA    90                                                                        None
+                     TANUJ BHATT    91                                        Water Resources Engineering Full Fee
+                   SAMBAT KHAREL    92                             Construction Engineering and Managment Full Fee
+                OSHINDEEP SUBEDI    93                                         Water Resources Engineering Regular
+                   SHAMBHU KAFLE    94                            Disaster Risk Engineering and Management Regular
+                SABIGYA POKHAREL    95  Computer Engineering Specialization in Networks and Cyber Security Regular
+                   SUSAN TIMSINA    96                                              Hydropower Engineering Regular
+             TANKA NATH ADHIKARI    97                            Power Electronics and Drives Engineering Regular
+                 UJWAL MAKHASHYA    98                                        Renewable Energy Engineering Regular
+                   PRABIN BOHARA   100  Computer Engineering Specialization in Data Science and Analytics Full Fee
+                  ALINA SHRESTHA   101                                             Masters in Architecture Regular
+                  ANISH SHRESTHA   102                                                      Urban Planning Regular
+                 DIPAK KUMAR DAS   103                                         Transportation Engineering Full Fee
+                 LENISH SHRESTHA   104                                            Power System Engineering Regular
+                 BIJITA PARAJULI   105                                                                        None
+                 SADIKSHYA THAPA   106                                              Structural Engineering Regular
+                  SAROJ ADHIKARI   107                                        Water Resources Engineering Full Fee
+             RATNA KAJI MAHARJAN   109                                                                        None
+            PRANJAL MANI ACHARYA   110                                          Environmental Engineering Full Fee
+                    ASHIM POUDEL   112                           Infrastructure Engineering and Management Regular
+                   ROSHAN KHATRI   113                                        Water Resources Engineering Full Fee
+                   SUBASH GAUTAM   114                           Computer System and Knowledge Engineering Regular
+                    AAYUSH KAFLE   115                                        Water Resources Engineering Full Fee
+                  ABHISHEK THAPA   116  Computer Engineering Specialization in Data Science and Analytics Full Fee
+                    PRASHAM SHAH   118                                             Earthquake Engineering Full Fee
+                    SAJAN KHATRI   119                                                                        None
+                    SAJAN KHATRI   119                                                                        None
+                    SAMRAT KAFLE   120                             Information & Communication Engineering Regular
+               YAM PRASAD SUBEDI   121                            Communications and Knowledge Engineering Regular
+                     SUMAN BHATT   122                                                                        None
+                   YUBRAJ BOHARA   123                                         Energy Efficient Buildings  Regular
+                  HOM RAJ KHADKA   124                                         Transportation Engineering Full Fee
+                    PRAKASH SHAH   125                                      Information System Engineering Regular
+                  SANGITA BHUSAL   126                             Construction Engineering and Managment Full Fee
+                     NIROJ DAHAL   128                                              Mechanical Engineering Regular
+                   SAMIR NIRAULA   129                                         Transportation Engineering Full Fee
+                NISCHAL SHRESTHA   130                                              Mechanical Engineering Regular
+                 IKSHUHANG LIMBU   131                                                                        None
+                   RONISH SUBEDI   132                                         Transportation Engineering Full Fee
+                UPENDRA SHRESTHA   134                                        Water Resources Engineering Full Fee
+             AASHUTOSH KUMAR JHA   135                                                                        None
+               PRABESH KUMAR SAH   136                                                                        None
+                 ABHISHEK POUDEL   137                                             Hydropower Engineering Full Fee
+                  SANTOSH TIWARI   138  Computer Engineering Specialization in Data Science and Analytics Full Fee
+                 MEGHRAJ GYAWALI   139  Computer Engineering Specialization in Data Science and Analytics Full Fee
+                     MABINS PURI   140                                                                        None
+                 ANUSHA DHUNGANA   141                                                                        None
+               DIBYANSHU PRADHAN   142                                         Energy Efficient Buildings  Regular
+                   BIJAY ACHARYA   143                                             Mechanical Engineering Full Fee
+                   GAURAV SUBEDI   144                                                                        None
+                  SEJAL MAHARJAN   145                                                                        None
+               AMIT KUMAR MAHATO   146                             Information & Communication Engineering Regular
+                    BIGYAN KARKI   147                                                                        None
+                   RHYTHM PANTHA   148                             Information & Communication Engineering Regular
+                    SAGAR BASNET   149                           Infrastructure Engineering and Management Regular
+                ARAHANTA POKHREL   150                                                                        None
+                    AMRIT POUDEL   151                                                                        None
+                    ASHOK POUDEL   152                   Mechanical Engineering (Design and Manufacturing) Regular
+                      BIJAY K.C.   154                                             Earthquake Engineering Full Fee
+               AYUSH BABU PAUDEL   155                           Infrastructure Engineering and Management Regular
+                ROSHAN BHATTARAI   156                                                                        None
+               SUDARSHAN SAPKOTA   157                                         Energy Efficient Buildings  Regular
+                     ANISH JOSHI   158 Computer Engineering Specialization in Networks and Cyber Security Full Fee
+                 SHRADHA ACHARYA   159                                           Geotechnical Engineering Full Fee
+                 PRAHLAD ACHARYA   160                             Information & Communication Engineering Regular
+                    ROSHAN THAPA   161                                                                        None
+                 MARCOS ADHIKARI   162                                             Hydropower Engineering Full Fee
+             BIKRAM DEV SHRESTHA   163                                                                        None
+             BIKRAM DEV SHRESTHA   163                                                                        None
+                MAHESH CHAUDHARY   164                                            Power System Engineering Regular
+                    KYAROL SUWAL   165                                                                        None
+                  NISHMA GURAGAI   166                                                                        None
+                  NISHMA GURAGAI   166                                                                        None
+                    DIYA SENTURY   167                                            Masters in Architecture Full Fee
+            ARBIND BAHADUR MAGAR   168                                         Energy Efficient Buildings  Regular
+                   SASHIVA NEPAL   169                                                                        None
+                   AASHISH RIMAL   170                                                                        None
+                  DIPAK RAJ GIRI   171                     Informatics and Intelligent Systems Engineering Regular
+                  PRATIK SEDHAIN   172                            Disaster Risk Engineering and Management Regular
+                     SORUP SINGH   173                                         Rock and Tunnel Engineering Regular
+                 SANDESH ACHARYA   174                                                                        None
+                  AAYUSHI TAMANG   175                                                                        None
+                 ASSIM SINGJANGU   177                                                                        None
+                  SUSAN SHRESTHA   178                                                                        None
+                  KRIPA SHRESTHA   179                                        Energy Efficient Buildings  Full Fee
+                   GRISHMA RIJAL   180                           Computer System and Knowledge Engineering Regular
+                 UJJWAL POKHAREL   181                     Informatics and Intelligent Systems Engineering Regular
+                  BISHAL KATUWAL   182                          Computer System and Knowledge Engineering Full Fee
+                    APIL ACHARYA   183                                                                        None
+                     ALSON REGMI   184                            Information & Communication Engineering Full Fee
+                 MANOJ RAJ JOSHI   186                                          Environmental Engineering Full Fee
+                    ARJUN DHAKAL   187                                                                        None
+                DIL PRASAD RIMAL   189                                                                        None
+                   ROSHAN POUDEL   191                                                                        None
+                 SEJEENA PRADHAN   192                                                                        None
+                   AARYA ACHARYA   193                                                                        None
+                   NITESH THAKUR   194                                                                        None
+                   NITESH THAKUR   194                                                                        None
+                 PRANAV ADHIKARI   195                                             Hydropower Engineering Full Fee
+                   BEBINA PHUYAL   197                            Disaster Risk Engineering and Management Regular
+                PRASHANNA PANDIT   198                                                                        None
+                PRASHANNA PANDIT   198                                                                        None
+                   SHISHIR DAHAL   199                   Mechanical Engineering (Design and Manufacturing) Regular
+                    KUSHAL GAULI   200                                                                        None
+                  MANISH SUNUWAR   201                           Disaster Risk Engineering and Management Full Fee
+                     SALMA THAPA   202                                             Structural Engineering Full Fee
+                SUNIL CHAULAGAIN   203                                                                        None
+                   SONA MAHARJAN   204                                             Earthquake Engineering Full Fee
+                  NISCHAL GHARTI   205                                          Environmental Engineering Full Fee
+                  PRABIN SUNUWAR   206                                             Hydropower Engineering Full Fee
+                    ISHWOR PANTA   207                                          Environmental Engineering Full Fee
+                     BIDUR KARKI   208                                                                        None
+                  PANKAJ POKHREL   209                                                                        None
+                SANJAY RAJ ARYAL   210                                                                        None
+                   GANESH PAUDEL   211                                                                        None
+                     ANIL KHADKA   212                                                                        None
+                   BIBAS CHHETRI   213                                                                        None
+                   ANIL ADHIKARI   214                                                                        None
+                      SABIN K.C.   215                           Disaster Risk Engineering and Management Full Fee
+                   RASHMI KHADKA   216   Computer Engineering Specialization in Data Science and Analytics Regular
+                KESHAB KHATIWADA   217                                                                        None
+               PRASHANNA GHIMIRE   218                                                     Urban Planning Full Fee
+                ABISHEK SHRESTHA   219                            Communications and Knowledge Engineering Regular
+                    INDRA PAUDEL   220                                              Geospatial Engineering Regular
+               PRAKASH UPADHAYAY   221                     Informatics and Intelligent Systems Engineering Regular
+                 SUSHANT POKHREL   222                                          Environmental Engineering Full Fee
+                 AARSHIYA KHADKA   223                                                                        None
+                 AARSHIYA KHADKA   223                                                                        None
+           ISHWOR BAHADUR PANDEY   224                           Disaster Risk Engineering and Management Full Fee
+                 ANUSHA SHRESTHA   225                                         Rock and Tunnel Engineering Regular
+                AAYUSH PUDASAINI   226                                        Renewable Energy Engineering Regular
+                     RAVI BHATTA   228                                        Rock and Tunnel Engineering Full Fee
+                    SUMAN BHUJEL   230                                         Rock and Tunnel Engineering Regular
+               SHRADDHA ADHIKARI   231                                                                        None
+             SIDDHARTHA SHRESTHA   232                           Disaster Risk Engineering and Management Full Fee
+                    PRATIK YADAV   233                                                                        None
+                   PRERANA THAPA   234                                         Transportation Engineering Full Fee
+                  SUPAL KADARIYA   235                                                                        None
+                  SUPAL KADARIYA   235                                                                        None
+                   KALAM PARIYAR   236                                                                        None
+                    SAIMAN RIJAL   238                     Informatics and Intelligent Systems Engineering Regular
+                 SHIVARAJ DHAKAL   239                                                                        None
+                 SHIVARAJ DHAKAL   239                                                                        None
+                 NIRAJ RAJ PANTA   240                                                                        None
+                     BIPIN SEDAI   242                                                                        None
+                    KAPIL KUNWAR   243                          Computer System and Knowledge Engineering Full Fee
+                     SUMIT KARKI   244                                                                        None
+                      NITISH DEO   246 Computer Engineering Specialization in Networks and Cyber Security Full Fee
+                  NEWSON GHIMIRE   247                                                     Urban Planning Full Fee
+                 BINIT RUPAKHETI   248                          Computer System and Knowledge Engineering Full Fee
+            LOKENDRA SINGH KHATI   250 Computer Engineering Specialization in Networks and Cyber Security Full Fee
+                  AABHUSAN THAPA   251                                                                        None
+                  AABHUSAN THAPA   251                                                                        None
+                TIRTHA RAJ JOSHI   252                                                                        None
+                  MANJIL SITOULA   253                                             Mechanical Engineering Full Fee
+                   NIRAV SAPKOTA   254 Computer Engineering Specialization in Networks and Cyber Security Full Fee
+                   BISESH SHAKYA   255                                                                        None
+                   BISESH SHAKYA   255                                                                        None
+                 SUBASH SHRESTHA   256                                         Rock and Tunnel Engineering Regular
+               SANJEET CHAUDHARY   257                                            Power System Engineering Regular
+                 PRAJWAL ACHARYA   258 Computer Engineering Specialization in Networks and Cyber Security Full Fee
+                 SADIKSHYA RIJAL   259                                              Mechanical Engineering Regular
+             SAHANSHILA MAHARJAN   260                                              Hydropower Engineering Regular
+                  LAXMI ADHIKARI   261                                              Earthquake Engineering Regular
+                    DIWASH KARKI   262                                                                        None
+                   LAXMI CHALISE   263                                                                        None
+                  ANISHA POKHREL   264                             Information & Communication Engineering Regular
+                      BIKASH DEV   265                                                                        None
+                  AASMAN BASHYAL   266                    Informatics and Intelligent Systems Engineering Full Fee
+                       POOJA SAH   268 Computer Engineering Specialization in Networks and Cyber Security Full Fee
+                  DILIP PARAJULI   269                                             Mechanical Engineering Full Fee
+                  SAURAV NEUPANE   271                                                                        None
+               SRIJAN RANA MAGAR   272                                                                        None
+                  HASHMUK BHATTA   273                                                                        None
+               SUDARSHAN DEVKOTA   275                                                                        None
+                   AASHISH BHATT   276                                                                        None
+                    SAURAV KARKI   277                                      Climate Change and Development Regular
+                 YOJANA RANABHAT   279                                              Geospatial Engineering Regular
+                  NISCHAL TAMANG   280                                                                        None
+             TANKA PRASAD TIWARI   282                           Disaster Risk Engineering and Management Full Fee
+                     SUBI KANDEL   283                                                                        None
+                    BHASKAR PANT   284                                                                        None
+                  SUNIL KHARBUJA   285                                                                        None
+               BISWAJEET PARASAR   286                                                                        None
+             PRAKASH KUMAR KARNA   288                            Power Electronics and Drives Engineering Regular
+                  UTSAV SHRESTHA   289                                                                        None
+                  NIRDESH KHANAL   290                                        Renewable Energy Engineering Regular
+           SIDDHARTH MOHAN THAPA   291                          Infrastructure Engineering and Management Full Fee
+                    SUNIL PAUDEL   292                                                                        None
+            CHANDRA PRAKASH G.C.   294                                         Rock and Tunnel Engineering Regular
+                    NABIN KHADKA   295                                             Hydropower Engineering Full Fee
+                  SATYAM GHIMIRE   296                            Information & Communication Engineering Full Fee
+              RUSTAM PRADHANANGA   297                                                     Urban Planning Full Fee
+                    JAYANT BHATT   298                                                                        None
+                 AVIYAN GURAGAIN   299                                                     Urban Planning Full Fee
+                 DINANATH SHARMA   300                   Mechanical Engineering (Design and Manufacturing) Regular
+                     ANIL DANGOL   301                                                                        None
+                  PRABESH SHARMA   302                                                                        None
+              SHARAD KUMAR DAHAL   303                                                                        None
+                  SANTOSH PANDEY   305                          Computer System and Knowledge Engineering Full Fee
+                      SAGAR BIST   306                            Information & Communication Engineering Full Fee
+                  BISHWAS POUDEL   307                                                                        None
+                 BAM SHANKAR RAY   309                                                                        None
+                  RABINDRA JOSHI   310                                                                        None
+                     SANTOSH SAH   311                                                                        None
+                     SANTOSH SAH   311                                                                        None
+                   SANDESH WAGLE   312                                                                        None
+                RAM KUMAR MANDAL   315                                                                        None
+              RISHAV BAJRACHARYA   317                                        Energy Efficient Buildings  Full Fee
+                 SAPHAL GANDHARI   318                                             Mechanical Engineering Full Fee
+                 AAKRITI CHALISE   319                                        Water Resources Engineering Full Fee
+                PRASHANT GHIMIRE   320                    Informatics and Intelligent Systems Engineering Full Fee
+                   JEEVAN PAUDEL   321                                                                        None
+                   PAWAN GHIMIRE   322                                                                        None
+                 SAMAYA ADHIKARI   323                                                                        None
+                 SAMAYA ADHIKARI   323                                                                        None
+                   SACHIN BHUSAL   324                          Computer System and Knowledge Engineering Full Fee
+             KRISHNA HARI PAHARI   325                                                                        None
+                   SAMIR BAJGAIN   326                                                                        None
+                 SUSHANT NIRAULA   327                                                                        None
+                 SUSHANT NIRAULA   327                                                                        None
+                PRINESH MAHARJAN   328                                                                        None
+               BIWASH BUDHATHOKI   329                                                                        None
+                SMARIKA MAHARJAN   330                                                                        None
+                   RASIQUE JIREL   331                                                                        None
+                     SAJAG MAJHI   332                            Information & Communication Engineering Full Fee
+                  GIRI RAJ JOSHI   334                                                                        None
+                KRITIKA BHANDARI   335                                                                        None
+                  SABIN MAHARJAN   336                                                                        None
+                    POSHAK NEPAL   338                                                                        None
+                  RAHUL RANABHAT   339                                                                        None
+                 PRATIBHA MAHATO   340                                                                        None
+                ANIL KUMAR YADAV   341                            Information & Communication Engineering Full Fee
+                  MANOGYA DHITAL   342                                      Material Science & Engineering Regular
+                    SABINA THAPA   343  Computer Engineering Specialization in Data Science and Analytics Full Fee
+                    SABINA THAPA   343                                                                        None
+                   ALISHA PANTHA   344                                                                        None
+                SHALIGRAM BHATTA   345                                                                        None
+               PRASHANT BHANDARI   346                                                                        None
+                 PRAJJWAL PAUDEL   347                                        Renewable Energy Engineering Regular
+                     PRABIN SHAH   348                                                                        None
+                     PRABIN SHAH   348                                                                        None
+                  UPASANA SUBEDI   351                                           Environmental Engineering Regular
+                KRISHNA PARAJULI   353                                                                        None
+                   YOGESH PAUDEL   355                                                                        None
+                PRATIK CHAUDHARY   356                                                                        None
+                  SHIKSHA BHUSAL   357                                            Power System Engineering Regular
+                  RAMESH ACHARYA   358                                                                        None
+                  SAGAR BHANDARI   360                                                                        None
+                  SAGAR BHANDARI   360                                                                        None
+                   SULAV POUDYAL   361                                                                        None
+                  BARSHA ACHARYA   362                                             Hydropower Engineering Full Fee
+                    UJJWAL DAHAL   364                                                                        None
+              AAYUSHMA BHATTARAI   365                                                                        None
+                   KRISHNA ARYAL   367                                                                        None
+                   PRASHIM YADAV   368                                                      Urban Planning Regular
+                   PRASHIM YADAV   368                                                      Urban Planning Regular
+                 SAMRAT BHANDARI   369                                                                        None
+                    SUSMA GAUTAM   370                                                                        None
+                    SAMIP SUBEDI   371                                                                        None
+                ANUSHA TIMILSINA   372                                                                        None
+          GAJENDRA KUMAR CHAUHAN   373                                      Material Science & Engineering Regular
+                   ANUJA BANJARA   374                                          Environmental Engineering Full Fee
+            PRASANNA BAJRACHARYA   375                                                                        None
+                 NANDALAL KHATRI   376                                                                        None
+               SRIJANA CHAUDHARY   377                           Infrastructure Engineering and Management Regular
+                  SUJIT SHRESTHA   378                                                                        None
+                MAHESH UPADHAYAY   379                                                                        None
+                 PRAKASH SAPKOTA   380                                                                        None
+                   DESHRIT BARAL   381                                                                        None
+                 YUBA RAJ DHAKAL   382                                                                        None
+                   SAJAN THAKURI   383                                                                        None
+                   IJAN SHRESTHA   384                                                                        None
+                  NIPUN ADHIKARI   385                                                                        None
+                   PRADIP LUITEL   386                                     Material Science & Engineering Full Fee
+                   PRADIP LUITEL   386                                                                        None
+                   ANIL MAHARJAN   389                   Mechanical Engineering (Design and Manufacturing) Regular
+            BHUPENDRA CHAULAGAIN   390                                                                        None
+               ABHISHEK ADHIKARI   392                                                                        None
+                      SIZAN MOOL   394                                                                        None
+                    MANISHA RAYA   395                                                                        None
+                  PRAJWAL BASNET   396                                      Information System Engineering Regular
+           SANTOSH THAPA CHHETRI   397                                                                        None
+                 ASHUTOSH GAUTAM   398                                                                        None
+               OM PRAKASH SHARMA   399                                                                        None
+                  UDAY RAJ KAFLE   400                                       Renewable Energy Engineering Full Fee
+                 SHASHANK GAUTAM   401                                                                        None
+                 SHASHANK GAUTAM   401                                                                        None
+            KRISHNA MURARI ARYAL   402                                                                        None
+                RAMESH RAJ JOSHI   404                                                                        None
+                  DEVESH GYAWALI   405                                                                        None
+                SAURAV UPADHYAYA   406                    Informatics and Intelligent Systems Engineering Full Fee
+                   SUMINA LAMSAL   407                          Computer System and Knowledge Engineering Full Fee
+                PRABIN MARAHATTA   409                                                                        None
+                   DIKSHYA ARYAL   410                                                                        None
+           DEV NARAYAN TAJPURIYA   411                                      Information System Engineering Regular
+           SANDEEP MALLA THAKURI   412                                                     Urban Planning Full Fee
+                  SUYASH ACHARYA   413                                             Mechanical Engineering Full Fee
+                  ANUJ CHAUDHARY   414                                                                        None
+                 SABITRI DHAMALA   415                                           Power System Engineering Full Fee
+                  PRAJWAL BASNET   416                                                                        None
+                  PRAJWAL BASNET   416                                                                        None
+                   PUSHPIN BARAL   417                                                                        None
+                   PUSHPIN BARAL   417                                        Rock and Tunnel Engineering Full Fee
+                   YOGESH SHAKYA   418                            Power Electronics and Drives Engineering Regular
+                   VIBEK GHIMIRE   419                                           Power System Engineering Full Fee
+                 AAYUSH POKHAREL   420                                                                        None
+                     SUNIL RAWAL   421                                                                        None
+                DEV RAJ ADHIKARI   423                                                                        None
+                  KRITIKA KHADKA   425                                        Renewable Energy Engineering Regular
+                 ANUSKA KAYASTHA   426                                                                        None
+                 ANUSKA KAYASTHA   426                                                                        None
+                 RAJAN KUMAR JHA   430                                                                        None
+                 SABHYATA KHANAL   431                            Information & Communication Engineering Full Fee
+                   ASHMITA RIJAL   432                                             Geospatial Engineering Full Fee
+                    KARUNA GHALE   433                                                                        None
+                   YOJAN PANDEYA   435                                                                        None
+                    KIRAN KHATRI   436                                                                        None
+                    KIRAN KHATRI   436                                                                        None
+                   ADITYA PANDEY   438                                                                        None
+                     SUDIP PANTA   439                                                                        None
+                  SRIJAN POKHREL   440                    Informatics and Intelligent Systems Engineering Full Fee
+               PRATAP BUDHATHOKI   441                                     Material Science & Engineering Full Fee
+                        RAVIN KC   442                                                                        None
+                  AASHISH SIGDEL   444                                      Material Science & Engineering Regular
+                     AARONA K.C.   445                     Informatics and Intelligent Systems Engineering Regular
+                   ASHISH DHAKAL   447                                        Rock and Tunnel Engineering Full Fee
+                  SUJAN ADHIKARI   448                                                                        None
+                     NIROJ DAHAL   449                                                                        None
+            PAWAN SAPKOTA SHARMA   450                    Informatics and Intelligent Systems Engineering Full Fee
+                   SANJOG SILWAL   451                                                                        None
+                    SUDIP DHAKAL   452                          Infrastructure Engineering and Management Full Fee
+                    AMRIT KUNWAR   453                                                                        None
+                ABILASH MAHARJAN   454                                                                        None
+                  PRABHAT BHATTA   455                                                                        None
+                  NISHANT GURUNG   456                                                                        None
+                  BANDANA SHARMA   458                                                                        None
+                  BIBEK SHRESTHA   460                                                                        None
+                   TEJ SINGH AIR   461                                                                        None
+                   TEJ SINGH AIR   461                                                                        None
+                  SHAILESH BADHU   462                                                                        None
+                  ANUSH MAHARJAN   468                                                                        None
+                  ANUSH MAHARJAN   468                                            Masters in Architecture Full Fee
+                 KARUNA ADHIKARI   469                                                                        None
+                 JEENITA GNAWALI   472                                                                        None
+                 JEENITA GNAWALI   472                                                                        None
+                  ARUN KUMAR SAH   475                                                                        None
+               DEEPIKA BHATTARAI   476                                                                        None
+             CHHATRA BIKRAM SHAH   477                                                                        None
+                     KIRAN CHAND   478                                                                        None
+                    PRINSA JOSHI   480                                                                        None
+                   AAVASH SHARMA   481                              Energy Systems Planning and Management Regular
+                 ASHISH SHRESTHA   482                                                                        None
+                  SUNDAR NEUPANE   483                                           Power System Engineering Full Fee
+                  NIKESH BHURTEL   484                              Energy Systems Planning and Management Regular
+                   RIJAN GHIMIRE   485                                                                        None
+                     NABIN THAPA   486                                                                        None
+                   SAURAV PANDEY   487                                                                        None
+               KHAMMA BAHADUR KC   489                                                                        None
+               KHAMMA BAHADUR KC   489                                                                        None
+                BINAMRA SHRESTHA   492                                                                        None
+                BINAMRA SHRESTHA   492                                                                        None
+                  MALIKA POKHREL   494                                                                        None
+                  MALIKA POKHREL   494                                                                        None
+                      NIMESH RAI   495                                                                        None
+                    DIPAK POUDEL   496                                                                        None
+                    SUVASH JOSHI   498                                                                        None
+               PRASHANT SHRESTHA   499                                                                        None
+               TILAK CHAND YADAV   500                                              Geospatial Engineering Regular
+                   GANESH PAUDEL   501                                                                        None
+            MANISH KUMAR POKHREL   502                                              Geospatial Engineering Regular
+                  BISWAS GHIMIRE   503                                                                        None
+                  AASHISH GAUTAM   504                                        Rock and Tunnel Engineering Full Fee
+                  AASHISH GAUTAM   504                                                                        None
+                    JUNIL PAUDEL   505                                                                        None
+                     JANAK RISAL   506                              Energy Systems Planning and Management Regular
+                   NAMUNA PAUDEL   507                                                                        None
+             SHUBHAM RAJ SHRISTY   508                                                                        None
+             SHUBHAM RAJ SHRISTY   508                                                                        None
+                   BHARAT KHADKA   509                                              Geospatial Engineering Regular
+                      ASHISH ALE   510                                                                        None
+         RABINDRA BAHADUR KHADKA   512                                                                        None
+              DIPAK RAJ SHRESTHA   513                                        Energy Efficient Buildings  Full Fee
+                DIKSHYANTA ARYAL   516                                                                        None
+                   PRADEEP DAHAL   517                                                                        None
+                   ASHISH SUBEDI   518                            Communications and Knowledge Engineering Regular
+                 SULAV TIMILSINA   519                                                                        None
+                  PREETAM BHATTA   522                                          Land and Water Engineering Regular
+                    SURAJ SILWAL   523                              Energy Systems Planning and Management Regular
+                  SIRISH PACHHAI   524                                                                        None
+                    SUYOG BASNET   525                  Mechanical Engineering (Design and Manufacturing) Full Fee
+                     SAMIR JOSHI   526                                           Power System Engineering Full Fee
+                  SPARSH CHALISE   527                                                                        None
+                     UTSAV RIJAL   528                                                                        None
+                 SACHIN SHRESTHA   529                                                                        None
+                  PABIN BHANDARI   530                                                                        None
+                     SNEHA CHAND   531                           Disaster Risk Engineering and Management Full Fee
+                  DEVRAJ NEUPANE   532                                                                        None
+                  GAGAN MAHARJAN   533                                                                        None
+                  MILAN MAHARJAN   534                                                                        None
+               SHASHWAT SHRESTHA   535                                                                        None
+                     RAMAN BHATT   536                                                                        None
+                  SACHIN GHIMIRE   537                                                                        None
+             TARA CHANDRA KANDEL   538                                                                        None
+                 BIJAYA SHRESTHA   540                                           Power System Engineering Full Fee
+                  KISHOR SAPKOTA   542                                           Power System Engineering Full Fee
+                   USHANA DAWADI   543                                                                        None
+                   SWIKRITI K.C.   545                                                                        None
+                    REKHA PUJARA   546                                                                        None
+                 PRAMSHU GHIMIRE   547                                                                        None
+                RAJISH KHATIWADA   548                                                                        None
+                      DIPA JOSHI   549                    Informatics and Intelligent Systems Engineering Full Fee
+                  ABHISHEK KARKI   551                                                                        None
+                  PARAS SHRESTHA   554                                                                        None
+                 SUSHIL ADHIKARI   555                                                                        None
+                 DIXIT BHATTARAI   556                                                                        None
+                 MANISHA NEUPANE   557                                                                        None
+                RECHINA MAHARJAN   558                                                                        None
+                   RITIKA PANDEY   559                                      Climate Change and Development Regular
+                    SUMAN SUBEDI   560                                                                        None
+                PRAJEETA GYAWALI   562                                                                        None
+                 DIBESH SHRESTHA   563                                                                        None
+                      NIRAJ NATH   565                                                                        None
+                    ANISH LAGEJU   566                                                                        None
+                        AMIR RAI   567                                        Rock and Tunnel Engineering Full Fee
+                  MANDEEP GURUNG   568                                        Energy Efficient Buildings  Full Fee
+                   GARIMA PAUDEL   569                                                                        None
+                   SANDIP KHATRI   570                                                                        None
+                    SAGAR BOHARA   572                                                                        None
+                      RAKESH SAH   573                            Power Electronics and Drives Engineering Regular
+                    BIPLOV NEPAL   574                                                                        None
+                PRASHANT POKHREL   575                                     Climate Change and Development Full Fee
+              DIPESH KUMAR YADAV   576                                                                        None
+                   GANESH POUDEL   577                                                                        None
+                  PRATIMA DAWADI   578                                                                        None
+                  PRATIMA DAWADI   578                                                                        None
+                SAURAV BHATTARAI   579                                                                        None
+                 GEHENDRA SUBEDI   580                           Power Electronics and Drives Engineering Full Fee
+                 MUNILAL MUKHIYA   581                                                                        None
+                  SASITA SAPKOTA   582                                                                        None
+                     BIDUR ARYAL   583                                                                        None
+                ASHMIN BHATTARAI   584                                                                        None
+                OM SHANKAR YADAV   585                                                                        None
+                 NABIN BHATTARAI   587                                          Land and Water Engineering Regular
+                NISPAKSHA ROKAYA   588                          Infrastructure Engineering and Management Full Fee
+                    BIJAY KHADKA   589                                                                        None
+            SHREE KRISHNA PAUDEL   590                                                                        None
+           MOHAMMAD SHABBIR ALAM   592                                      Material Science & Engineering Regular
+                ADESH KUMAR G.C.   593                                                                        None
+               ASHISH KUMAR KARN   595                                                                        None
+                   HEMRAJ BOGATI   596                                                                        None
+                 UJJWAL SIMKHADA   598                                                                        None
+                 UJJWAL SIMKHADA   598                                                                        None
+                     GAURAV SHAH   602                                                                        None
+                   ROSHAN GURUNG   603                                                                        None
+               BISHWASH BHANDARI   604                                                                        None
+                  PRABHAT PAHARI   605                                      Climate Change and Development Regular
+                    NIRAJ BHUSAL   608                                             Geospatial Engineering Full Fee
+                    ANUP NEUPANE   609                            Communications and Knowledge Engineering Regular
+              SIDDHANTA SHRESTHA   611                                                                        None
+          NIKISHA SINGH MAHARJAN   612                                                                        None
+              SACHIN BAJRACHARYA   613                                                                        None
+                ABISHEK BHANDARI   614                                                                        None
+                    RITURAJ SHAH   615                                                                        None
+                  BHUPENDRA NATH   616                                       Renewable Energy Engineering Full Fee
+                      PARAS K.C.   617                                                                        None
+                  BEEBIKA SHARMA   620                                     Climate Change and Development Full Fee
+                  ASMITA BASTOLA   621                                                                        None
+                    RIYA PRADHAN   622                                                                        None
+               RANJAN RAJ PANDEY   623                           Power Electronics and Drives Engineering Full Fee
+                   KHEM RAJ SHAH   624                                                                        None
+                    PUSPA GAJMER   625                                                                        None
+                  AJAY BHATTARAI   626                                                                        None
+       SUBHADRA KUMARI CHAUDHARY   627                                                                        None
+                  UDAYA ADHIKARI   628                           Communications and Knowledge Engineering Full Fee
+                   BHUWAN KHADKA   629                                                                        None
+                   RUPESH DHITAL   630                           Power Electronics and Drives Engineering Full Fee
+               DIP SAGAR GNAWALI   631                                                                        None
+                  ANMOL SHRESTHA   632                                                                        None
+                 SARMILA GYAWALI   633                              Energy Systems Planning and Management Regular
+                ARBIND KUMAR SAH   634                                                                        None
+                ARBIND KUMAR SAH   634                                                                        None
+                   ISHA SHRESTHA   635                                                                        None
+                  DIWAKAR BHATTA   636                                          Land and Water Engineering Regular
+                    RAMESH MAJHI   637                                                                        None
+                 SWAGAT ADHIKARI   638                                                                        None
+             ROSHAN RAJ ADHIKARI   639                           Power Electronics and Drives Engineering Full Fee
+              RAISHA KARMACHARYA   640                            Power Electronics and Drives Engineering Regular
+                   SANGAM BHUSAL   641                  Mechanical Engineering (Design and Manufacturing) Full Fee
+                   ADITYA PANDEY   642                                                                        None
+                   SUNDAR SUBEDI   643                                                                        None
+                    SAHIL BHUJEL   645                                          Land and Water Engineering Regular
+                   BISHAL KUNWAR   646                                                                        None
+                SANDESH DHUNGANA   647                                                                        None
+                  SMRITI PANDEYA   648                                        Rock and Tunnel Engineering Full Fee
+                MADHU SUDAN OJHA   649                                                                        None
+                    SAMIR BHUSAL   650                                                                        None
+                   MD JIYAUL HAQ   651                                                                        None
+              SWATANTRA HUMAGAIN   652                                      Sanitation Engineering/Science Regular
+                  AVISHEK SHARMA   654                                                                        None
+                  AASHESH SILWAL   656                                                                        None
+                  AAKASH KOIRALA   657                                                                        None
+                    SUJAN SUBEDI   658                                      Climate Change and Development Regular
+                    SUJAN SUBEDI   658                                                                        None
+                      MEGHA SHAH   663                                                                        None
+                      ARUN KARKI   665                                      Climate Change and Development Regular
+                  BISHAL NEUPANE   666                                                      Urban Planning Regular
+                 ANSHU CHHATKULI   667                                                                        None
+             BIBEK RANJAN MALLIK   668                                  Distributed Generation Engineering Regular
+                PRASANNA GHIMIRE   669                                                                        None
+               PREM KUMAR MAHATO   672                                                                        None
+                SUSHILA SHRESTHA   673                                                                        None
+                      NIROJ RANA   674                                       Renewable Energy Engineering Full Fee
+          BASANT RAJ BAJRACHARYA   675                                                                        None
+                     PUJAN KARKI   676                                                                        None
+                     SAMIR SHAHI   677                                                                        None
+                   SHISHIR ARYAL   678                                  Distributed Generation Engineering Regular
+                  NAWARAJ POUDEL   683                                                                        None
+                       SAJ ADUWA   685                                                                        None
+              ACHYUT RAJ GHIMIRE   686                          Infrastructure Engineering and Management Full Fee
+                 SHISHIR ACHARYA   687                                                                        None
+                  MOHIT POKHAREL   689                                                                        None
+                    RAHUL PATHAK   690                                                                        None
+                   BIPLAV KHADKA   691                                                                        None
+                  BASANT BELBASE   692                  Mechanical Engineering (Design and Manufacturing) Full Fee
+                   YUDEEP POUDEL   696                  Mechanical Engineering (Design and Manufacturing) Full Fee
+              ABISHEK KUMAR SHAH   697                                             Geospatial Engineering Full Fee
+                 SAFAL TIMILSENA   698                          Infrastructure Engineering and Management Full Fee
+                   NITESH PAUDEL   699                                                                        None
+           BISWA PRAKASH PARASAR   701                                                                        None
+                 BAMDEV BHANDARI   702                                                                        None
+                 BAMDEV BHANDARI   702                                                                        None
+                   BHABESH THAPA   703                                                                        None
+                    SUMIT SUBEDI   704                                                                        None
+                   MANISH TIWARI   705                                             Geospatial Engineering Full Fee
+                   SAMEEP SIGDEL   706                                                                        None
+                   UTSAV BASHYAL   707                                                                        None
+                  HANS RAJ BHATT   708                                                                        None
+                 MAHESH MAHARJAN   710                                        Energy Efficient Buildings  Full Fee
+                   MONIKA DHITAL   711                                                                        None
+                     NIRAJ THAPA   715                                       Renewable Energy Engineering Full Fee
+               SUBARNA CHAUDHARY   716                           Power Electronics and Drives Engineering Full Fee
+                  SUBIN TANDUKAR   718                  Mechanical Engineering (Design and Manufacturing) Full Fee
+                   RIWAJ BHURTEL   720                                                                        None
+                  ROSHIKA GURUNG   722                                                                        None
+                     ARZOO JOSHI   723                                                                        None
+               NAWARAJ ALE MAGAR   724                                                                        None
+            BABIN BABU BHATTARAI   726                                                                        None
+                   ROSHAN KANDEL   728                                                                        None
+                 JANAKI BHANDARI   729                                                                        None
+                BIKRAM TIMALSINA   732                                                                        None
+                   SAMANA SUBEDI   735                                                                        None
+           KUSHAL SHARMA KOIRALA   738                                                                        None
+                    CHUTRA THAPA   739                                  Distributed Generation Engineering Regular
+           DHARMA RAKIT MAHARJAN   740                                                                        None
+                    SUYASH ARYAL   741                                                                        None
+                    BIBASH KARKI   743                                                                        None
+                      RAM SUBEDI   744                                        Energy Efficient Buildings  Full Fee
+                    PRABIN THAPA   746                                                                        None
+                 SAMRAT ADHIKARI   748                                                                        None
+               DIKSHYA BHATTARAI   750                                                                        None
+               DIKSHYA BHATTARAI   750                                                                        None
+                   ASMITA BAGALE   752                                                                        None
+                YOGESH RAYAMAJHI   753                                                                        None
+                       AMRIT PUN   754                                                                        None
+                  SULOCHAN DAHAL   755                                                                        None
+                  HARDIK POKHREL   756                                                                        None
+                    BIBEK SHARMA   758                                                                        None
+                   BIPLAN POUDEL   759                                                                        None
+                   DIPIN MAINALI   760                                                                        None
+                  ISHWOR BANJADE   763                                                                        None
+                    POOJA BHATTA   766                                                                        None
+                      SANTOSH GC   767                                                                        None
+                PRAVAT TIMILSINA   769                                                                        None
+                PRAVAT TIMILSINA   769                                                                        None
+                 SUHANA DHUNGANA   770                                                                        None
+                 SUHANA DHUNGANA   770                                                                        None
+                    HITESH THAPA   771                                             Masters in Architecture Regular
+                PRAJINA MAHARJAN   773                                                                        None
+                  GANGA SHRESTHA   775                                                                        None
+                  AARADHNA SHREE   776                   Mechanical Engineering (Design and Manufacturing) Regular
+                BIBEK PRASAD SAH   777                                                                        None
+                   AKASH ACHARYA   778                                                                        None
+                 PRASHANT LAMSAL   779                                                                        None
+                     SAMEER K.C.   780                                                                        None
+              RABI SINGH THAKURI   781                                                                        None
+              KESHAB BAHADUR PAL   782                                                                        None
+              KESHAB BAHADUR PAL   782                                                                        None
+                ARUN KUMAR BHOMI   783                                             Geospatial Engineering Full Fee
+                    BIBEK KHANAL   786                                  Distributed Generation Engineering Regular
+                   ANISH NEUPANE   787                                     Climate Change and Development Full Fee
+          BHIJAN BIKASH POKHAREL   788                                                                        None
+                 ANURADHA BHATTA   789                                                                        None
+                  MANISH GHIMIRE   790                                             Geospatial Engineering Full Fee
+                 JYOTI CHAUDHARY   791                           Power Electronics and Drives Engineering Full Fee
+           GAURAV GHARTI CHHETRI   792                                                                        None
+           GAURAV GHARTI CHHETRI   792                                                                        None
+                  JIVARAJ PANDEY   794                                                                        None
+           JEETENDRA DEV CHHETRI   795                                                                        None
+                  PRATIBHA ARYAL   796                                                                        None
+                    SADIP KHADKA   797                                                                        None
+                 SAUJAN TAMRAKAR   798                                                                        None
+                   SUJAN GHIMIRE   799                                                                        None
+          YAKENDRA BAHADUR SHAHI   800                                                                        None
+          YAKENDRA BAHADUR SHAHI   800                                                                        None
+           BASANTA BAHADUR MAGAR   801                                                                        None
+                   DHIRAJ BOHARA   802                                                                        None
+                   DHIRAJ BOHARA   802                                                                        None
+                   MILAN KOIRALA   803                                                                        None
+                   ANITA POKHREL   804                                                                        None
+                   ANITA POKHREL   804                                                                        None
+                AAVANISH KOIRALA   806                                                                        None
+                    ASHOK POUDEL   807                                                                        None
+                   DIPAK KOIRALA   808                                                                        None
+                     ANU SAPKOTA   810                            Communications and Knowledge Engineering Regular
+                   RAMAN BANJARA   812                                       Renewable Energy Engineering Full Fee
+                DIWAKAR ADHIKARI   813                                                                        None
+              TILAK RAJ ADHIKARI   815                                                                        None
+                   BISHAL SUBEDI   817                                                                        None
+                    SANJAY YADAV   819                                                                        None
+                  MRIDU MARASINI   822                                                                        None
+                    ROSI NEUPANE   825                                                                        None
+                 AARATI SHRESTHA   829                                                                        None
+                  BHUMIKA SHAKYA   832                                                                        None
+                      SUMAN K.C.   833                                                                        None
+             SHYAM PRASAD SANJEL   834                                                                        None
+                   PRAYASH DAHAL   837                             Energy Systems Planning and Management Full Fee
+                ANUKESH SHRESTHA   838                                                                        None
+                ANUKESH SHRESTHA   838                                                                        None
+                    ASHMIT BARAL   839                                                                        None
+                DINESH RAJ JOSHI   842                                                                        None
+                   RAMESH KHATRI   843                                                                        None
+                     NABIN ARYAL   844                                                                        None
+                    HIMAL ROKAYA   845                                                                        None
+                     ANUSHA OJHA   846                                                                        None
+                 AADITYA SAPKOTA   847                                                                        None
+                 DAVID CHAUDHARY   849                           Communications and Knowledge Engineering Full Fee
+                SAMIR LAMICHHANE   851                                 Distributed Generation Engineering Full Fee
+                 RAMESH BHANDARI   852                                                                        None
+                    KIRAN POUDEL   854                                     Material Science & Engineering Full Fee
+                     SABIN KARKI   855                                                                        None
+                    ASHISH REGMI   856                                                                        None
+                 NISHA KANDANGWA   857                                                                        None
+                   GOBINDA BISTA   858                                                                        None
+                  SULAV SHRESTHA   859                                                                        None
+                  JITENDRA DAHAL   860                                                                        None
+                 BIDHAN ADHIKARI   861                                                                        None
+                    KAPIL PANTHI   863                                                                        None
+                    KUSHAL ARYAL   864                                                                        None
+                  ROJISHMA LAGHU   865                                                                        None
+                    SUJAN PADHYA   866                                                                        None
+                   SUBESH PAGENI   869                                                                        None
+             BINITA KUMARI JOSHI   870                                                                        None
+               RAHUL BAJRACHARYA   872                                                                        None
+                   SAROJ AWASTHI   873                                                                        None
+                 PRATIVA KOIRALA   874                                                                        None
+                   SHREEYA ARYAL   876                                      Material Science & Engineering Regular
+                 AASHRIT NIRAULA   877                                         Land and Water Engineering Full Fee
+                    RAVI POKHREL   878                                                                        None
+               SUMIT KUMAR SINGH   879                                                                        None
+               SUMIT KUMAR SINGH   879                                                                        None
+                   BIBEK CHHETRI   880                                                                        None
+              PRABAL RAGHUBANSHI   881                                                                        None
+              PRABAL RAGHUBANSHI   881                                                                        None
+           PRAMOD HARIJAN CHAMAR   883                                                                        None
+                   DAKSHA THAKUR   884                                     Material Science & Engineering Full Fee
+                     UTTAM RIMAL   885                                                                        None
+         SHIKANDAR MAHARA CHAMAR   888                                                                        None
+                   PRASHANT K.C.   889                                                                        None
+                  LOKESH ACHARYA   891                                                                        None
+                  SUSHMA ACHARYA   892                                                                        None
+                     SHRAY SINGH   894                                                                        None
+                  SANDESH KHANAL   895                                                                        None
+                    ROSHAN THAPA   896                                                                        None
+                   TARTIP LUITEL   898                                                                        None
+       ABHISHEK CHAUDHARY KALWAR   899                                     Material Science & Engineering Full Fee
+              SANDESH CHAULAGAIN   900                                                                        None
+             PURUSOTTAM ADHIKARI   901                                 Distributed Generation Engineering Full Fee
+                     ANIL DHAKAL   902                                     Climate Change and Development Full Fee
+                 NAMRATA KOIRALA   903                                                                        None
+                  AVISHEK LAMSAL   904                                                                        None
+                    ARBIN SIGDEL   906                                                                        None
+                    ARBIN SIGDEL   906                                                                        None
+                    ARBIN SIGDEL   906                                                                        None
+                  DREESHTI KAFLE   907                          Infrastructure Engineering and Management Full Fee
+                   DINESH SHARMA   909                                 Distributed Generation Engineering Full Fee
+              HARI BAHADUR BUDHA   910                                                                        None
+                 ASHISH ADHIKARI   912                                                                        None
+                  SULAV ADHIKARI   913                                                                        None
+                   BINAYA SHARMA   914                                                                        None
+                 KSHITIZ KOIRALA   915                             Energy Systems Planning and Management Full Fee
+               PRACHANDA PRADHAN   916                                                                        None
+                       OM MAHATO   920                                                                        None
+                 SAGAR THAPALIYA   921                                                                        None
+                   HEM RAJ JIREL   922                                                                        None
+                SARITA KASICHHWA   925                                             Mechanical Engineering Full Fee
+          GOVINDA PRASAD GYAWALI   926                                                                        None
+                     SAMIR KARKI   927                                                                        None
+                ABHISHEK SAPKOTA   930                                                                        None
+                   AAKRITI UDAYA   932                                                                        None
+                   SANJAYA KARKI   933                                                                        None
+              PRAMIT RAJKARNIKAR   934                                                                        None
+                  SANDHYA KHADKA   935                                                                        None
+                    BIBEK PAUDEL   937                                                                        None
+              NISCHAYA MANANDHAR   940                                            Masters in Architecture Full Fee
+                     SHALU ROKKA   942                                                                        None
+                   LENISH KHADKA   944                                                                        None
+                    RAJEEV YADAV   945                                      Information System Engineering Regular
+                 BIKRAM SHRESTHA   946                                                                        None
+                   SARAD NIROULA   952                                                                        None
+                   SMRITI BHUJEL   953                                                                        None
+                   SOJINA TAMANG   954                                                                        None
+                   SOJINA TAMANG   954                                                                        None
+              GHANASHYAM GHIMIRE   955                                      Sanitation Engineering/Science Regular
+                 RAJANI SHRESTHA   957                                                                        None
+                NISCHAL SHRESTHA   958                                                                        None
+                    SAGAR KHANAL   959                                                                        None
+              MADHU SUDAN BASNET   962                                                                        None
+              MADHU SUDAN BASNET   962                                                                        None
+                     SWETA SHAHI   963                                                                        None
+             HARI BISHAL KOIRALA   964                                                                        None
+               SUBRITT BURLAKOTI   965                                                                        None
+               SUBRITT BURLAKOTI   965                                                                        None
+                  NIKITA ACHARYA   966                                  Distributed Generation Engineering Regular
+                 AAYUSH ADHIKARI   967                                                                        None
+            SURAKSHYA LAMICHHANE   968                                                                        None
+             LAXMI PRASAD SHARMA   971                                     Climate Change and Development Full Fee
+                    ARPAN MISHRA   974                                                                        None
+              MANISH KUMAR KARNA   976                                                                        None
+                    ANUP KATUWAL   979                                                                        None
+                 RAJARAM GHEMOSU   981                                 Distributed Generation Engineering Full Fee
+          SANDESH PAUDEL CHHETRI   982                             Energy Systems Planning and Management Full Fee
+                  SRISHTI POUDEL   983                                                                        None
+                   BAIJNATH SHAH   984                                                                        None
+                    MEGHA THAKUR   986                                                                        None
+                 AABISKAR BHUSAL   987                                                                        None
+                 UTSHAV PARAJULI   989                                                                        None
+                 SUSHMITA PAUDEL   993                                                                        None
+                    KUSUM POUDEL   996                                                                        None
+              SUMIT PRASAD YADAV   997                                                                        None
+                 PRATIK BHANDARI  1000                                                                        None
+                  NIRAJ POKHAREL  1007                                                                        None
+                  ROSHNA NEUPANE  1008                                                                        None
+                 BIJAY RAJ ARYAL  1009                                                                        None
+                   SAURAV GAUTAM  1011                                                                        None
+          YAWANIKA DIXIT ACHARYA  1012                                                                        None
+          YAWANIKA DIXIT ACHARYA  1012                                                                        None
+              PRADEEP LAMICHHANE  1013                                     Material Science & Engineering Full Fee
+                     ISHA DONGOL  1014                                                                        None
+           PRATYUSH RAJ SHRESTHA  1019                                                                        None
+                  SANJOK GYAWALI  1020                                                                        None
+                  ABHISEK BHATTA  1021                             Energy Systems Planning and Management Full Fee
+             DHAN BAHADUR GURUNG  1022                                                                        None
+                     KRITI NEPAL  1023                                                                        None
+               SIDDHARTHA THAKUR  1026                                                                        None
+                  SARU DESHEMARU  1029                                                                        None
+                    SAGUN PAHARI  1030                                                                        None
+                    SAGUN PAHARI  1030                                                                        None
+                    SAGUN PAHARI  1030                                                                        None
+                    RIMSA MALLIK  1031                                                                        None
+             KUSHAL LAL SHRESTHA  1032                                                                        None
+           RAMCHANDRA CHAULAGAIN  1036                                                                        None
+                    UNIKA GAUTAM  1040                                                                        None
+                RANJITA SHRESTHA  1041                                                                        None
+                 DIPESH SHRESTHA  1043                                     Climate Change and Development Full Fee
+                  RENUKA BHETWAL  1046                                                                        None
+                     MANOJ JOSHI  1047                                 Distributed Generation Engineering Full Fee
+                 RITESH SHRESTHA  1048                                                                        None
+                   NITISH SHARMA  1049                                     Information System Engineering Full Fee
+                   ASHISH POUDEL  1051                                                                        None
+                   ASHOK GHIMIRE  1052                                                                        None
+               SAMYAK RAJ PANDEY  1053                                                                        None
+                     HIMAL THAPA  1054                                                                        None
+                     HIMAL THAPA  1054                                                                        None
+                   MANISHA GUPTA  1055                                                                        None
+                 DEVESH SHRESTHA  1056                                                                        None
+          KAUSHAL BAHADUR KUNWAR  1057                                                                        None
+                    AASTHA GODAR  1059                                                                        None
+           OM PRAKASH CHAULAGAIN  1060                                                                        None
+                       ANISH SAH  1061                                                                        None
+                     SOFIYA LAMA  1065                                                                        None
+                  ANIL BHATTARAI  1069                                                                        None
+          PRASHANT RAJ KUSHAWAHA  1070                                                                        None
+          PRASHANT RAJ KUSHAWAHA  1070                                                                        None
+           AMIT POUDYEL UPADHYAY  1071                                             Masters in Architecture Regular
+                 SHUVANGA SUBEDI  1072                                                                        None
+                   SURAJ DHAMALA  1073                                                                        None
+                   SURAJ DHAMALA  1073                                                                        None
+                   ELBINA PAUDEL  1075                                                                        None
+                 KARUNA SHRESTHA  1077                                                                        None
+                   ANIMESH REGMI  1078                                                                        None
+                      MUKESH DAS  1079                                                                        None
+                     AASTHA SHAH  1080                                                                        None
+                   RUBINA MASKEY  1081                                                                        None
+                    BIDUR BASNET  1082                                                                        None
+                AMOD KUMAR YADAV  1084                                         Land and Water Engineering Full Fee
+                AMOD KUMAR YADAV  1084                                                                        None
+                  SAJU SHIWAKOTI  1085                                                                        None
+                      RAM KUSHMA  1086                                                                        None
+             NIKHIL KUMAR MISHRA  1087                                                                        None
+                 SMRITI MAHARJAN  1089                                                                        None
+                     AASTHA SHAH  1091                                                                        None
+                    ISHWOR KAFLE  1093                                                                        None
+                 DEEPA BHATTARAI  1094                                                                        None
+                    DAVID PANDAY  1095                                                                        None
+               SIDDHARTHA NEPALI  1096                                                                        None
+               SIDDHARTHA NEPALI  1096                                                                        None
+                 SURAJ CHAUDHARY  1097                                                                        None
+        DEVENDRA UPADHYAYA RISAL  1099                                                                        None
+                 ANJILA SHRESTHA  1100                                                                        None
+           SUDARSHAN RAJ GHIMIRE  1102                                                                        None
+           SUDARSHAN RAJ GHIMIRE  1102                                                                        None
+                    JAGADISH K.C  1104                                                                        None
+                     GOKUL JOSHI  1106                                                                        None
+                   DIWAKAR SINGH  1107                                         Land and Water Engineering Full Fee
+                      SAGAR SHAH  1108                                                                        None
+                 PRIYANKA KAPARI  1110                                                                        None
+                 SHEKHAR POKHREL  1111                                                                        None
+                   ANUBHAB THAPA  1112                                                                        None
+                   ABIRAL SHARMA  1115                                                                        None
+                      RAHUL PATI  1119                                                                        None
+                   KIRAN SAPKOTA  1120                                                                        None
+                  JYOTI SHRESTHA  1123                                                                        None
+                  SAKSHAM BOHARA  1124                                                                        None
+            HARISH BAHADUR THAPA  1125                                                                        None
+                     SNEH BOHARA  1130                                                                        None
+                    ALISHA REGMI  1131                                                                        None
+                RABINA PRAJAPATI  1133                                                                        None
+                   PUJAN NEUPANE  1135                                                                        None
+              RAMESH KUMAR MEHTA  1136                                     Information System Engineering Full Fee
+                   BIBHAV POUDEL  1137                                                                        None
+                  RUBISHA DHITAL  1139                                                                        None
+                  ANJAN SHRESTHA  1140                                                                        None
+                ANUSHKA PARAJULI  1142                                                                        None
+               RANJITA TIMALSINA  1143                                                                        None
+                   DINA SHRESTHA  1144                                         Land and Water Engineering Full Fee
+                      NEHA VERMA  1145                                                                        None
+                  PARAS ADHIKARI  1146                                                                        None
+                  PARAS ADHIKARI  1146                                                                        None
+            RASHMI KUMARI MALLIK  1148                                                                        None
+                    BINOD PAUDEL  1151                                                                        None
+                   PRAGYA SUBEDI  1153                                                                        None
+                     CHETAN SARU  1154                                            Masters in Architecture Full Fee
+                   SAGAR NEUPANE  1157                                                                        None
+                   ISHWAR BHATTA  1158                                                                        None
+                   ISHWAR BHATTA  1158                                                                        None
+                     ANUP SUBEDI  1159                                                                        None
+                SACHINA SHRESTHA  1162                                                                        None
+             NARESH RAJ NYAUPANE  1163                                                                        None
+                   DILASA TIWARI  1164                                                                        None
+                  RAHUL SHRESTHA  1165                                                                        None
+                   MANISHA YADAV  1168                                                                        None
+                  PRABIN NGAKUSI  1170                                                                        None
+                    AMRIT NEPALI  1174                                                                        None
+                    RAJEEV PATEL  1175                                                                        None
+                  PREKSHA SHARMA  1176                                                                        None
+                   PUJA KADARIYA  1177                                                                        None
+               YUBRAJ TIMALSHINA  1180                                                                        None
+              DHARMA RAJ GAUNDEL  1182                                                                        None
+                  RAJESWOR KARKI  1183                             Energy Systems Planning and Management Full Fee
+                    AMODH PANDEY  1184                                                                        None
+                    EBRAJ GURUNG  1185                           Communications and Knowledge Engineering Full Fee
+              SAURAV KUMAR YADAV  1189                                                                        None
+               AMODH KUMAR SINHA  1190                                      Sanitation Engineering/Science Regular
+                   SANTOSHI AYER  1193                                                                        None
+                 SHARMILA DHAKAL  1194                                                                        None
+                 AMBIKA SHRESTHA  1196                                                                        None
+                  BINISHA GAUTAM  1197                                                                        None
+                 ALIZA BHATTARAI  1198                                                                        None
+                 ALIZA BHATTARAI  1198                                                                        None
+                    SURESH KARKI  1201                                                                        None
+              BIPIN KUMAR MISHRA  1203                                                                        None
+                 RABIN KUMAR SAH  1204                                                                        None
+                   SICHU PACHHAI  1205                                                                        None
+                    SUSAN TANDON  1206                                                                        None
+            AJAY KUMAR CHAUDHARY  1207                                                                        None
+                 JAGRIT PARAJULI  1208                                                                        None
+                 SABIKSHYA MAGAR  1210                                                                        None
+                NISHANT BHANDARI  1211                                                                        None
+                 RITESH RAJ SHAH  1212                                                                        None
+                  SUSHIL DOOTRAJ  1213                                                                        None
+    NIRMAL KUMAR BYANJU SHRESTHA  1214                                                                        None
+               MANDIP BUDHATHOKI  1215                                                                        None
+                    ANKITA SINHA  1216                                                                        None
+                 SACHIN ADHIKARI  1220                                                                        None
+                  BIKALPA KHADKA  1222                                                                        None
+                  PALISTHA SUWAL  1223                                                                        None
+                   BASANTA KARKI  1225                                                                        None
+                    PAWAN BHATTA  1226                                                                        None
+            DIPENDRA BAJRACHARYA  1228                                                                        None
+                   MALIKA RANJIT  1230                                                                        None
+                   SAURAB GAUTAM  1231                                                                        None
+             NITISH RAJOPADHYAYA  1232                                                                        None
+             NITISH RAJOPADHYAYA  1232                                                                        None
+                SHASHWAT NEUPANE  1233                                                                        None
+ANURODH TECHNICAL COLLEGE POUDEL  1235                                                                        None
+                DIBYESWARI SINGH  1241                                                                        None
+                 NIHARIKA SIGDEL  1243                                                                        None
+                PRAJWAL ADHIKARI  1244                                                                        None
+                BIKASH CHAUDHARY  1248                                                                        None
+                 MUNAL TIMILSINA  1249                                                                        None
+                  SUSHANT DHITAL  1251                                                                        None
+                AMRISH KUMAR SAH  1252                                                                        None
+          SURENDRA KUMAR DOOTRAJ  1253                                                                        None
+              SWETA BAUDHACHARYA  1255                                                                        None
+                    SAGAR PAUDEL  1257                                                                        None
+                    SAUGAT KARKI  1258                                                                        None
+                      SATYAM RAI  1260                                                                        None
+                ABHISHEK PRADHAN  1262                                                                        None
+                   BIJAYA DANGOL  1269                                                                        None
+          SATYAM KUMAR CHAUDHARY  1271                                                                        None
+               TILAK RAJ ACHARYA  1272                                                                        None
+                 BIDHAN ADHIKARI  1273                                                                        None
+                      DIPIKA RAI  1274                                                                        None
+                 AWISHA SHRESTHA  1275                                                                        None
+                 SHIRISH BASTOLA  1277                                                                        None
+                    ABHISHEK JHA  1278                                                                        None
+                    SANJEENA JHA  1280                                                                        None
+                KSHITIZ SHRESTHA  1281                                                                        None
+                RAJENDRA PANGENI  1282                                                                        None
+                   GANESH BOHARA  1284                                                                        None
+                RANJIT KUMAR SAH  1287                                                                        None
+                  AAKRITI KHADKA  1288                                                                        None
+                   SHARAD PANDEY  1292                                                                        None
+                  SWETA SHRESTHA  1293                                                                        None
+                  KRITIKA KHANAL  1295                             Energy Systems Planning and Management Full Fee
+                      POOJA SHAH  1298                                                                        None
+                 NITESH SHRESTHA  1299                                                                        None
+                SADIKSHYA KHANAL  1300                                 Distributed Generation Engineering Full Fee
+                SANIJ LAMICHHANE  1301                                                                        None
+                  RASMITA GAUTAM  1305                                       Renewable Energy Engineering Full Fee
+             SACHINA BAJRACHARYA  1306                                                                        None
+               BADRI NATH POUDEL  1307                                                                        None
+           ANKIT KUMAR CHAURASIA  1308                                                                        None
+                 KABI RAJ BHATTA  1309                                                                        None
+                      RABI LAKHA  1312                                                                        None
+               SAMRACHANA POUDEL  1314                                                                        None
+              NIMA GYATSO SHERPA  1315                                                                        None
+                 SARISHNA SHAKYA  1317                                                                        None
+                   BIKAL KOIRALA  1318                                                                        None
+              MAHESH KUMAR YADAV  1319                                                                        None
+                      RUPA REGMI  1325                                                                        None
+                SADIKSHYA POUDEL  1327                                                                        None
+                   NABIN TIMSINA  1330                           Communications and Knowledge Engineering Full Fee
+                   YURISH KHADKA  1331                                                                        None
+              ARUN ANURUP LAMSAL  1333                                                                        None
+                       SANAM PUN  1336                                                                        None
+                   KRITIM KATWAL  1341                                            Masters in Architecture Full Fee
+                   AVAY GURAGAIN  1344                                                                        None
+                    SONALI GUPTA  1345                                                                        None
+                      REKHA SHAH  1346                                                                        None
+                SUSHIL TIMILSINA  1348                                                                        None
+                       BIBEK DEO  1351                                                                        None
+                  RAJENDRA REGMI  1352                                                                        None
+                     NANCY YADAV  1354                                                                        None
+                   NUNA ADHIKARI  1359                                                                        None
+                ROSHAN KHATIWADA  1360                                                                        None
+                  SANOJ SHRESTHA  1361                                                                        None
+                 GAURAV ADHIKARI  1362                                                                        None
+                SHRADDHA GHIMIRE  1363                                                                        None
+                PRATIKSHYA ARYAL  1365                           Communications and Knowledge Engineering Full Fee
+                  KISHOR ACHARYA  1366                                                                        None
+                NISCHAL POKHAREL  1368                                                                        None
+                 HRITIK ADHIKARI  1369                                                                        None
+                  SAURABH DHAKAL  1370                                                                        None
+                JYOTI KUMARI SAH  1371                                                                        None
+                    GOKUL GAUTAM  1374                                                                        None
+                  GAURAB TAMAKHU  1375                                                                        None
+                  NIRAJAN DHAKAL  1379                                                                        None
+                    SABIN GAUTAM  1380                                                                        None
+                KRITIKA SHRESTHA  1382                                                                        None
+                  RISHABH LUITEL  1386                                                                        None
+             DEEPINA KARMACHARYA  1388                                      Sanitation Engineering/Science Regular
+                   SHANKAR KARKI  1390                                                                        None
+                    BABURAM BOTE  1391                                                                        None
+                SAMIKSHYA SILWAL  1392                                                                        None
+                    BIJAYA THAPA  1394                                                                        None
+                 KRISHALA POUDEL  1396                                                                        None
+                NIRANJAN GHIMIRE  1398                                                                        None
+                 POOJA BHATTARAI  1401                                                                        None
+                 NARAYAN GHIMIRE  1402                                                                        None
+                MALISHA MAHARJAN  1403                                                                        None
+                MALISHA MAHARJAN  1403                                                                        None
+                    NIKEE THAKUR  1405                                                                        None
+                        AVAYA KC  1406                                                                        None
+                  YASHMI SAPKOTA  1407                                                                        None
+                    ACHAL GAUTAM  1408                                                                        None
+                AMRIT LAMICHHANE  1409                                                                        None
+                    ANITA PURBAY  1411                                                                        None
+                    ANISH PHUYAL  1412                                                                        None
+                      DIVYA K.C.  1414                                                                        None
+              PRAKRITI TIMILSINA  1418                                                                        None
+              PRAKRITI TIMILSINA  1418                                                                        None
+                    BHUWAN MALLA  1419                                                                        None
+                   SIMON ACHARYA  1422                                                                        None
+              SANKALPA KHATIWADA  1423                                         Land and Water Engineering Full Fee
+                    BARSHA NEPAL  1427                                                                        None
+               ABHAY RAJKARNIKAR  1432                                                                        None
+                      TEK PANERU  1433                                                                        None
+                PRATIKSHA GAUTAM  1434                                                                        None
+           BIRAJ DHAKAL UPADHAYA  1438                                                                        None
+                     MANISH OJHA  1439                                                                        None
+                   KOSHAN DHAKAL  1440                                                                        None
+                  PRAKASH MISHRA  1441                                                                        None
+                  PRAKASH MISHRA  1441                                                                        None
+             PRATIKCHHA BHANDARI  1444                                                                        None
+                SANDHYA SHRESTHA  1447                                                                        None
+                   BIKRAM PAUDEL  1449                           Communications and Knowledge Engineering Full Fee
+                    CHEWAN DAHAL  1450                                                                        None
+                     SRIJANA SAH  1452                                                                        None
+                    DINESH WASTI  1453                                     Information System Engineering Full Fee
+                 RADHIKA MUKHIYA  1455                                                                        None
+          RUPESH KUMAR CHAUDHARY  1456                                     Sanitation Engineering/Science Full Fee
+                    SUDEEP ARYAL  1458                                                                        None
+                 SANJAY SHRESTHA  1460                                                                        None
+                KESHAB RAJ JOSHI  1467                                                                        None
+                   SHRISTI NEPAL  1476                                                                        None
+                   SHRISTI NEPAL  1476                                                                        None
